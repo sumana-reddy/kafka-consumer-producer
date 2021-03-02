@@ -1,4 +1,4 @@
-package edu.nwmissouri.sumana;
+package edu.nwmissouri.bigdata.sumana;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
