@@ -1,4 +1,4 @@
-package edu.nwmissouri.sumana;
+package edu.nwmissouri.bigdata.sumana;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
