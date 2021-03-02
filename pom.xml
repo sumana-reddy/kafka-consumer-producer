@@ -95,7 +95,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>edu.nwmissouri.sumana.ProducerBySumana</mainClass>
+                <mainClass>edu.nwmissouri.bigdata.sumana.ProducerBySumana</mainClass>
                 
               </manifest>
             </archive>
